@@ -1,0 +1,31 @@
+ .header{
+    background-color: #afafaf;
+    border-width: 25px;
+    border: solid;
+    color: #4e3774;  
+}
+img{
+    margin-top: 25px;
+}
+.inf{
+    border-width:20px;
+    border: solid;
+    background-color: #4d6e97;
+    flex-wrap: wrap;
+    color:#2f2e2e;
+
+}
+h2{
+    margin: 10px;
+    color: #474c92;
+}
+.head2{
+    background-color: #afafaf;
+}
+h4{
+    background-color: #afafaf;
+    color: #2f2e2e;
+}
+.whole{
+    background-color: #afafaf;
+}
